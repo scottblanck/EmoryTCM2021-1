@@ -26,3 +26,7 @@ We saw a hawk descending
 On a day in spring.
 
 - Masaoka Shiki
+
+=======================================
+Local changes here:
+
