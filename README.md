@@ -1,13 +1,12 @@
 # EmoryTCM2021-1
+
 Creating lesson for students / class
 
 Making some changes here.
 
-
-WARNING.  Adding potential project-breaking ideas.
+WARNING. Adding potential project-breaking ideas.
 
 EDIT EDIT EDIT
-
 
 From time to time
 The clouds give rest
@@ -30,3 +29,10 @@ On a day in spring.
 =======================================
 Local changes here:
 
+One more haiku!
+
+The lamp once out
+Cool stars enter
+The window frame.
+
+- Natsume Soseki
