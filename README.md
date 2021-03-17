@@ -13,3 +13,9 @@ The clouds give rest
 To the moon-beholders.
 
 - Matsuo Bashō
+
+Don’t weep, insects –
+Lovers, stars themselves,
+Must part.
+
+- Kobayashi Issa
