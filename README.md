@@ -3,6 +3,7 @@ Creating lesson for students / class
 
 Making some changes here.
 
+
 WARNING.  Adding potential project-breaking ideas.
 
 EDIT EDIT EDIT
@@ -19,3 +20,9 @@ Lovers, stars themselves,
 Must part.
 
 - Kobayashi Issa
+
+Toward those short trees
+We saw a hawk descending
+On a day in spring.
+
+- Masaoka Shiki
